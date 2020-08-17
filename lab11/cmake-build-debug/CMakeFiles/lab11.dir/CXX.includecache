@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/lab11/Queue.h
+cstdlib
+-
+limits
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab11/main.cpp
+iostream
+-
+string
+-
+assert.h
+-
+Queue.h
+/Users/Alexern/Desktop/CSCI 262/lab11/Queue.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././Queue.h
+cstdlib
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab09/Queue.cpp
+Queue.h
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab09/Queue.h
+cstdlib
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab09/main.cpp
+string
+-
+iostream
+-
+Queue.h
+/Users/Alexern/Desktop/CSCI 262/lab09/Queue.h
+

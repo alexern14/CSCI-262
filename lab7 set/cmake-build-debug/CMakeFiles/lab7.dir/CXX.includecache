@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/lab7 set/lab07a.cpp
+iostream
+-
+fstream
+-
+string
+-
+ctime
+-
+algorithm
+-
+vector
+-
+set
+-
+iterator
+-
+

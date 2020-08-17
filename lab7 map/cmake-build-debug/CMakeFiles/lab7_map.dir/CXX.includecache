@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/lab7 map/lab07b.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+vector
+-
+map
+-
+

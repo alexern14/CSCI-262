@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Documents/School/Spring 2019/CSCI 262/project1/personality_test.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+sstream
+-
+personality_test.h
+/Users/Alexern/Documents/School/Spring 2019/CSCI 262/project1/personality_test.h
+
+/Users/Alexern/Documents/School/Spring 2019/CSCI 262/project1/personality_test.h
+string
+-
+vector
+-
+iostream
+-
+
+/Users/Alexern/Documents/School/Spring 2019/CSCI 262/project1/proj1.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+personality_test.h
+/Users/Alexern/Documents/School/Spring 2019/CSCI 262/project1/personality_test.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/lab12a/int_counter.h
+string
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab12a/main.cpp
+iostream
+-
+int_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12a/int_counter.h
+mod_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12a/mod_counter.h
+
+/Users/Alexern/Desktop/CSCI 262/lab12a/mod_counter.h
+int_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12a/int_counter.h
+

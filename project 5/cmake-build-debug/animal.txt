@@ -1,0 +1,21 @@
+#Q Is it a mammal?
+#Q Does it have stripes?
+#Q Does it eat meat?
+#A is it a tiger?
+#A Is it a zebra?
+#Q Is it a house pet?
+#A Is it a dog?
+#Q Does it have horns?
+#A Is it a buffalo?
+#Q Does it live under water?
+#A Is it a dolphin?
+#A Is it a lion?
+#Q Is it a bird?
+#Q Does it fly?
+#Q Is it small?
+#A Is it a hummingbird?
+#A Is it an eagle?
+#A Is it a penguin?
+#Q Is it an amphibian?
+#A Is it a frog?
+#A Is it a gila monster?

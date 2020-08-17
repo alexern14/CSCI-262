@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/lab12b/bit_counter.h
+counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/counter.h
+
+/Users/Alexern/Desktop/CSCI 262/lab12b/bounded_counter.h
+int_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/int_counter.h
+
+/Users/Alexern/Desktop/CSCI 262/lab12b/counter.h
+string
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab12b/int_counter.h
+counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/counter.h
+
+/Users/Alexern/Desktop/CSCI 262/lab12b/main.cpp
+iostream
+-
+bit_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/bit_counter.h
+int_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/int_counter.h
+mod_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/mod_counter.h
+bounded_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/bounded_counter.h
+
+/Users/Alexern/Desktop/CSCI 262/lab12b/mod_counter.h
+int_counter.h
+/Users/Alexern/Desktop/CSCI 262/lab12b/int_counter.h
+

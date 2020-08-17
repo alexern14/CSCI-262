@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/markov/brute_model.cpp
+cstdlib
+-
+vector
+-
+brute_model.h
+/Users/Alexern/Desktop/CSCI 262/markov/brute_model.h
+
+/Users/Alexern/Desktop/CSCI 262/markov/brute_model.h
+model.h
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+
+/Users/Alexern/Desktop/CSCI 262/markov/main.cpp
+iostream
+-
+cstdlib
+-
+markov.h
+/Users/Alexern/Desktop/CSCI 262/markov/markov.h
+
+/Users/Alexern/Desktop/CSCI 262/markov/map_model.cpp
+cstdlib
+-
+vector
+-
+map
+-
+model.h
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+map_model.h
+/Users/Alexern/Desktop/CSCI 262/markov/map_model.h
+
+/Users/Alexern/Desktop/CSCI 262/markov/map_model.h
+model.h
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+map
+-
+vector
+-
+string
+-
+
+/Users/Alexern/Desktop/CSCI 262/markov/markov.cpp
+markov.h
+/Users/Alexern/Desktop/CSCI 262/markov/markov.h
+brute_model.h
+/Users/Alexern/Desktop/CSCI 262/markov/brute_model.h
+map_model.h
+/Users/Alexern/Desktop/CSCI 262/markov/map_model.h
+word_model.h
+/Users/Alexern/Desktop/CSCI 262/markov/word_model.h
+cstdlib
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
+/Users/Alexern/Desktop/CSCI 262/markov/markov.h
+string
+-
+ctime
+-
+map
+-
+model.h
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+string
+-
+vector
+-
+map
+-
+
+/Users/Alexern/Desktop/CSCI 262/markov/word_model.cpp
+cstdlib
+-
+vector
+-
+map
+-
+model.h
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+word_model.h
+/Users/Alexern/Desktop/CSCI 262/markov/word_model.h
+
+/Users/Alexern/Desktop/CSCI 262/markov/word_model.h
+model.h
+/Users/Alexern/Desktop/CSCI 262/markov/model.h
+map
+-
+vector
+-
+string
+-
+sstream
+-
+

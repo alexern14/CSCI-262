@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/CSCI 262/lab10/clock_time.h
+iostream
+-
+string
+-
+ctime
+-
+
+/Users/Alexern/Desktop/CSCI 262/lab10/main.cpp
+string
+-
+iostream
+-
+iomanip
+-
+sstream
+-
+clock_time.h
+/Users/Alexern/Desktop/CSCI 262/lab10/clock_time.h
+

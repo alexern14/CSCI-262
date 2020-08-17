@@ -1,0 +1,3 @@
+/Users/Alexern/Desktop/CSCI 262/lab7 c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Alexern/Desktop/CSCI 262/lab7 c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Alexern/Desktop/CSCI 262/lab7 c/cmake-build-debug/CMakeFiles/lab7_c.dir

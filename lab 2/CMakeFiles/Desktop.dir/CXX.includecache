@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Desktop/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+iostream
+-
+string
+-
+iomanip
+-
+iomanip
+-
+fstream
+-
+string
+-
+

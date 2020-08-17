@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Alexern/Desktop
+CMake Error: The current CMakeCache.txt directory /Users/Alexern/Desktop/CSCI 262/lab 2/CMakeCache.txt is different than the directory /Users/Alexern/Desktop/cmake-build-debug where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+-- Configuring incomplete, errors occurred!
+See also "/Users/Alexern/Desktop/CSCI 262/lab 2/CMakeFiles/CMakeOutput.log".

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Alexern/Downloads/lab01/lab01.cpp
+iostream
+-
+string
+-
+muddler.h
+/Users/Alexern/Downloads/lab01/muddler.h
+
+/Users/Alexern/Downloads/lab01/muddler.cpp
+string
+-
+set
+-
+muddler.h
+/Users/Alexern/Downloads/lab01/muddler.h
+
+/Users/Alexern/Downloads/lab01/muddler.h
+string
+-
+
